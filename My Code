@@ -10,7 +10,7 @@ Dim CriteriaRange As Range
 Dim ResultPage As Worksheet
 Dim Difference As Double
 'Validation Variable list ends
-
+                            'Lets Change
 'For Period Validations
 Dim RecordsOnValueDate As New ADODB.Recordset
 
